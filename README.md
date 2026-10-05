@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hari-header.svg" alt="Hari — building useful systems at the intersection of AI, software, and healthcare" width="100%" />
+  <img src="hari-header.svg" alt="Hari — building useful systems at the intersection of AI, software, and healthcare" width="100%" />
 </div>
 
 <br />
